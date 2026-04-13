@@ -12,7 +12,7 @@ In this lab, students will learn how to use MongoDB via the **command line (mong
 
 ## 📖 Reading Assignment
 - 7.1 MongoDB
-- 7.2 Mongoose
+- 7.2 Mongoosehttps://github.com/Web-Engineering-KFUPM/7-1-mongodb-hawra-almajed.git
 
 ---
 
